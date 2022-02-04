@@ -16,7 +16,7 @@ _“Si la chèvre avait la queue plus longue, elle pourrait balayer les étoiles
 | Gender  | Alpha  |
 | Favorite color:  | Black |
 | Favorite food: | Pizza |
-| Pinneapple on pizza: | :white_large_square |
+| Pinneapple on pizza: | ☒ |
  
 
  ## Hobbies
