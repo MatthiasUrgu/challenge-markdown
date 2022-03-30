@@ -1,5 +1,8 @@
+![GitHub followers](https://img.shields.io/github/followers/matthiasUrgu?label=Markdown&logo=Markdown&style=flat-square)   ![GitHub watchers](https://img.shields.io/github/watchers/matthiasUrgu/exquisite-corpse?color=white&label=Github&logo=Github&style=flat-square)
+
+
 # challenge-markdown
-solo with groupinteraction
+  Initiation au Markdown et github
 
 # Matthias Urgu
 
@@ -35,7 +38,7 @@ _“Si la chèvre avait la queue plus longue, elle pourrait balayer les étoiles
 
  ## Tell your teammates which positive contribution to the group you will make.
 
- * Je suis concentré , timide mais aime aider les autres
+ * Je suis concentré , timide mais aime aider les autres. Bref , je suis vraiment un mec bien.
 
 
 ## A funny story 
